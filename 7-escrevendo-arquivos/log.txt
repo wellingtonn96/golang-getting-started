@@ -1,0 +1,34 @@
+https://www.caelum.com.br- online: true falsesite-false- online: falsehttps://httpbin.org/status/404- online: falsehttps://www.alura.com.br- online: truehttps://www.caelum.com.br- online: truehttps://httpbin.org/status/404- online: falsehttps://www.alura.com.br- online: truehttps://www.caelum.com.br- online: truehttps://httpbin.org/status/404- online: falsehttps://www.alura.com.br- online: truehttps://www.caelum.com.br- online: truehttps://httpbin.org/status/404- online: falsehttps://www.alura.com.br- online: truehttps://www.caelum.com.br- online: truehttps://httpbin.org/status/404- online: falsehttps://www.alura.com.br- online: truehttps://www.caelum.com.br- online: truesite-false- online: false
+https://httpbin.org/status/404- online: false
+https://www.alura.com.br- online: true
+https://www.caelum.com.br- online: true
+https://httpbin.org/status/404- online: false
+https://www.alura.com.br- online: true
+https://www.caelum.com.br- online: true
+https://httpbin.org/status/404- online: false
+https://www.alura.com.br- online: true
+https://www.caelum.com.br- online: true
+https://httpbin.org/status/404- online: false
+https://www.alura.com.br- online: true
+https://www.caelum.com.br- online: true
+https://httpbin.org/status/404- online: false
+https://www.alura.com.br- online: true
+https://www.caelum.com.br- online: true
+31/10/2024 00:58:12 - site-false- online: false
+31/10/2024 00:58:14 - https://httpbin.org/status/404- online: false
+31/10/2024 00:58:15 - https://www.alura.com.br- online: true
+31/10/2024 00:58:15 - https://www.caelum.com.br- online: true
+31/10/2024 00:58:21 - https://httpbin.org/status/404- online: false
+31/10/2024 00:58:21 - https://www.alura.com.br- online: true
+31/10/2024 00:58:22 - https://www.caelum.com.br- online: true
+31/10/2024 00:58:28 - https://httpbin.org/status/404- online: false
+31/10/2024 00:58:28 - https://www.alura.com.br- online: true
+31/10/2024 00:58:29 - https://www.caelum.com.br- online: true
+31/10/2024 00:58:35 - https://httpbin.org/status/404- online: false
+31/10/2024 00:58:35 - https://www.alura.com.br- online: true
+31/10/2024 00:58:36 - https://www.caelum.com.br- online: true
+31/10/2024 00:58:42 - https://httpbin.org/status/404- online: false
+31/10/2024 00:58:42 - https://www.alura.com.br- online: true
+31/10/2024 00:58:42 - https://www.caelum.com.br- online: true
+05/11/2024 00:59:32 - site-false- online: false
+05/11/2024 01:00:07 - site-false- online: false
